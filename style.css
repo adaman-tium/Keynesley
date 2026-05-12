@@ -1,0 +1,11 @@
+
+
+body {
+    background-color: #fdebca;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+   
+}
